@@ -1,0 +1,15 @@
+/*start import*/
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900');
+@import "navigate.css";
+
+ul {
+    display:flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+ul li {
+    width: auto;
+    display: inline-block;
+}
